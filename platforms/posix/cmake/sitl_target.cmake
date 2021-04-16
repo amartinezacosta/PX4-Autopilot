@@ -133,6 +133,8 @@ set(models
 	typhoon_h480
 	uuv_bluerov2_heavy
 	uuv_hippocampus
+	doe_drone
+	NASA_AMES_drone
 )
 
 set(worlds
@@ -145,6 +147,9 @@ set(worlds
 	warehouse
 	windy
 	yosemite
+	doe_drone_empty
+	doe_drone_fabens
+	NASA_AMES_empty
 )
 
 set(all_posix_vmd_make_targets)

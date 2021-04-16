@@ -79,4 +79,8 @@ px4_add_romfs_files(
 	6011_typhoon_h480.post
 	6012_typhoon_ctrlalloc
 	6012_typhoon_ctrlalloc.post
+	6013_doe_drone
+	6013_doe_drone.post
+	6014_NASA_AMES_drone
+	6014_NASA_AMES_drone.post
 )
